@@ -1,0 +1,5 @@
+package libraryapp.entity;
+
+public class Book {
+
+}
